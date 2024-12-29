@@ -45,8 +45,12 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![image](https://github.com/user-attachments/assets/e85706aa-2408-4729-8d8f-e933164b31f5)
+
+
+### Name: JOTHIMANI P
+
+### Register Number: 24900871
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
